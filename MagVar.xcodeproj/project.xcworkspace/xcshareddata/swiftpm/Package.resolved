@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "U2Gonk",
+        "repositoryURL": "https://github.com/Cenith-Innovations/U2Gonk",
+        "state": {
+          "branch": null,
+          "revision": "f8a5cd00c3733c4a6e673a1e4f5218a7a0e44a4b",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
